@@ -12,15 +12,14 @@
 
   <img src="./src/img/projetosnake.gif" alt="gif de demonstração do projeto" width="600" height="600">
 </div>
+  
+  <h3>🕹Link Do Game🐍
+  <a href="https://jogo-da-cobrinha-sable.vercel.app/">PLAY</a>
+  </h3>
 
 ## 🕹Modo de jogar🕹
 #### Para movimentar a Snake é bem simples, basta utilizar as setas do teclado ➡️ ⬅️ ⬆️ ⬇️
 
-<div>
-  <h2>🕹Link Do Game🐍
-  <a href="https://jogo-da-cobrinha-sable.vercel.app/">PLAY</a>
-  </h2>
-</div>
 
 ### 🚧 andamento para mobile 🚧
 
