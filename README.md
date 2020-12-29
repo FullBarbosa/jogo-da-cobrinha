@@ -18,13 +18,13 @@
  
   <h4>🕹 Link Do Game 🐍
   
-  <a href="https://jogo-da-cobrinha-sable.vercel.app/">PLAY</a>
+  <a href="https://jogo-da-cobrinha-sable.vercel.app/">🕹🕹🕹PLAY🕹🕹🕹</a>
   
   </h4>
 
 
 
-### 🚧 andamento para mobile 🚧
+### 🚧 Andamento para mobile 🚧
 
 
 
