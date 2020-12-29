@@ -15,9 +15,7 @@
 
 ## 🕹Modo de jogar🕹.
 
-```bash
-Para movimentar a Snake é bem simples, basta utilizar as setas do teclado. ➡️ ⬅️ ⬆️ ⬇️
-```
+### Para movimentar a Snake é bem simples, basta utilizar as setas do teclado. ➡️ ⬅️ ⬆️ ⬇️
 
 <div>
   <h2>🕹Link Do Game🐍</h2>
