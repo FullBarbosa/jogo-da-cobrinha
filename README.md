@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Snake Game🐍</h1>
-  <h2>Projeto jogo da cobrinha. Projeto com objetivo de demonstrar aptidões e possibilidades na linguagem javascript. Por meio de criar um jogo divertido e nostálgico</h2>
+  <h2>Projeto com objetivo de demonstrar aptidões e possibilidades na linguagem javascript. Por meio de criar um jogo divertido e nostálgico</h2>
   
   <img src="https://img.shields.io/github/languages/top/FullBarbosa/jogo-da-cobrinha" alt="">
 
