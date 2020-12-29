@@ -16,10 +16,7 @@
 ## 🕹 Modo de jogar 🕹
 #### Para movimentar a Snake é bem simples, basta utilizar as setas do teclado ➡️ ⬅️ ⬆️ ⬇️
  
-  <h4>🕹 Link Do Game 🐍
-  
-  <a href="https://jogo-da-cobrinha-sable.vercel.app/">🕹🕹🕹PLAY🕹🕹🕹</a>
-  
+  <h4>🕹<a href="https://jogo-da-cobrinha-sable.vercel.app/">Link Do Game</a>🐍
   </h4>
 
 
