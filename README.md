@@ -1,0 +1,30 @@
+<div align="center">
+
+  <h1>Snake Game🐍</h1>
+  <h2>Projeto jogo da cobrinha. Projeto com objetivo de demonstrar aptidões e possibilidades na linguagem javascript. Por meio de criar um jogo divertido e nostálgico</h2>
+  
+  <img src="https://img.shields.io/github/languages/top/FullBarbosa/jogo-da-cobrinha" alt="">
+
+  <img src="https://img.shields.io/github/languages/count/FullBarbosa/jogo-da-cobrinha" alt="">
+</div>
+<br>
+
+<img src="./src/img/projetosnake.gif" alt="gif de demonstração do projeto" width="600" height="600">
+
+## 🕹Modo de jogar🕹.
+
+```bash
+### Para movimentar a Snake é bem simples, basta utilizar as setas do teclado.
+#←↑→↓
+
+```
+
+<div>
+  <h2>🕹Link Do Game🐍</h2>
+  <a href="https://jogo-da-cobrinha-sable.vercel.app/">PLAY</a>
+</div>
+
+### 🚧 andamento para mobile 🚧
+
+
+
